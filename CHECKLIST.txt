@@ -1,0 +1,14 @@
+CHECKLIST
+
+[ ] Subi todo o conteúdo direto na raiz do GitHub
+[ ] Não criei uma pasta extra envolvendo o projeto
+[ ] A Vercel terminou o deploy
+[ ] /upsell-1/ abre
+[ ] /upsell-2/ abre
+[ ] /downsell/ abre
+[ ] /oferta-final/ abre
+[ ] As 4 imagens aparecem nas páginas
+[ ] Preenchi os links reais da Hotmart no config.js
+[ ] Preenchi a URL final de acesso/obrigado
+[ ] Testei todos os botões SIM
+[ ] Testei todos os links de recusa
